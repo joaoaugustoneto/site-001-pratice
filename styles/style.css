@@ -1,0 +1,18 @@
+@charset "utf-8";
+
+/* CSS Document */
+body {
+    background-color: #f0f0f0;
+    font-family: Arial, sans-serif;
+    font-size: 1em;
+}
+
+h1 {
+background-color: rgba(184, 170, 170, 0.863);
+font-family: fantasy,'Times New Roman', Times, serif;
+}
+
+h2 {
+background-color: rgba(184, 170, 170, 0.863);
+font-family: fantasy,'Times New Roman', Times, serif;
+}
